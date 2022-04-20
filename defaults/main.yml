@@ -29,6 +29,7 @@ gitea_disable_registration: false
 gitea_enable_captcha: false
 gitea_require_signin: true
 gitea_show_registration_button: true
+gitea_log_level: info
 
 gitea_install_lock: false
 gitea_secret_key:
